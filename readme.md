@@ -17,7 +17,7 @@
 ### Linux and Macos
 1) Клонируем репозиторий на локальный компьютер
 ```
-git clone 
+git clone https://github.com/dertty/airflow_in_docker_tutorial.git
 ```
 2) Переходим в папку, которую скопировали
 ```
